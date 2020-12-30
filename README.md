@@ -1,7 +1,7 @@
 
 # How to Run
 
-Usability of the model can be seen in `notebooks/run.py`.
+Usability of the model can be seen in `notebooks/run.ipynb`.
 
 # Production Plan
 
